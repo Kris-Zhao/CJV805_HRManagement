@@ -5,8 +5,6 @@ part of this assignment has been copied manually or electronically from any othe
 distributed to other students.
 
 Name(s): Yuhang Zhao(150467199)
-		 Sana Golrang(103173209)
-		 Dhavalkumar Manilal Patel(121121180)
 
 --------------------------------------------------------------------------
 The database.properties stores my Oracle database information, including driver, username and password. 
@@ -38,7 +36,7 @@ DAManager class is a data access manager class provides the interface that is us
 
 In ca.myseneca.test package:
 The HRManagement class is a test class that mimics an application. Prompt user input a username and a password from the console. If pass the credential check, 
-show the user’s info as employee, then execute methods on DAManager class one by one.
+show the userâ€™s info as employee, then execute methods on DAManager class one by one.
 Finally, there would be three other employees inserted into EMPLOYEES table. 
 -------------------------------------------------------------------------- 
 
